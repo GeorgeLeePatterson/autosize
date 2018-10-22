@@ -3,7 +3,7 @@
 	license: MIT
 	http://www.jacklmoore.com/autosize
 */
-(function (global, factory) {
+;(function (global, factory) {
 	if (typeof define === "function" && define.amd) {
 		define(['module', 'exports'], factory);
 	} else if (typeof exports !== "undefined") {
